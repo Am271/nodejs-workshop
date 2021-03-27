@@ -1,0 +1,7 @@
+Write a server program in express called and "helloworldex.js". When the request is received, send the response "hello world" to the client/browser.
+
+Write an express server program called as "dateex.js" which will send the response of today's date to the browser/client upon its request.
+
+Write an express server program called addex.js which will receive two numbers from the client and send thier sum back to the client.
+
+Write an express server program called addMVC.js which accepts the two numbers from a html like file and send the response back to the client/browser. (add.hbs addresult.hbs)

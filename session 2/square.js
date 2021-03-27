@@ -1,0 +1,9 @@
+function area(side) {
+    return side * side;
+}
+
+function perimeter(side) {
+    return 4 * side;
+}
+
+module.exports = {area, perimeter};

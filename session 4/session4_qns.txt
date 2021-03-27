@@ -1,0 +1,3 @@
+Write a program to establish a connection with a mongodb database.
+
+Write a program to display all the documents of the collections students.

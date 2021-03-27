@@ -1,0 +1,20 @@
+Write a program, called "circle.js" which has two functions "area" and "perimeter".
+
+Write a program called "square.js" which has two functions called as "area" and "perimeter"
+
+Write a program called "main.js", use the circle and square module and find out the area and perimeter of circle and square.
+
+Write a program to demonstrate the concept of events.
+
+Write a program to read the contents of a file synchronously.
+
+Write a program to read the contents of a file using asynchronous method.
+
+Write a server program in node js, which will respond with a message, "Hello world!" when the request is received.
+
+Write a server program which will accept a request and send a response of today's date.
+
+HW:
+Write a server program called "timeserver.js" and send a response of current time.
+
+Write a server program called as "datetimeserver.js" which receives a request and sends back a response with both date and time.

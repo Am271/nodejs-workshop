@@ -1,0 +1,29 @@
+Write a hello world program in node js.
+
+Write a js program to add, subtract, multiply and divide two numbers and display the result.
+
+Write a program to concatenate two strings.
+
+Write a program to verify the age of a person. If age is greater than or equal to 18, he/she is eligible to vote, or else he/she is not eligible to vote.
+
+Write a program, given a character, find out whether it is a vowel or a consonant.
+
+Write a program to print numbers from 1-20. (separate for even and odd)
+
+Write a program to print numbers from 1-20 using while loop.
+
+Write a program to the sum of numbers in an array.
+
+Write a program to the sum of numbers in an array using for-each loop.
+
+Write a program to generate 20 random numbers between 1-100.
+
+Write a program to print the current date.
+
+Write a program to print the current time.
+
+Write a program to demonstrate set-timeout function.
+
+Write a program to demonstrate set-interval function.
+
+Write a program to demonstrate the concept of call-back functions in javascript.

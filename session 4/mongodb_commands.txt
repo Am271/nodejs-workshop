@@ -1,0 +1,19 @@
+use <dbname>;
+
+db.createCollection('<collectionname>');
+
+db.students.insertOne({usn: 'CS101', name: 'John', gender: 'M', email: 'john@gmail.com', city: 'Delhi'});
+
+db.students.find();
+
+db.students.find({usn: 'CS101'});
+
+db.students.find({$or: [{<key>: "<value>"}, {<key>: "<value>"}]});
+
+db.students.find().sort({<key>:1 (or) -1});
+
+1 is for ascending, and -1 is for descending
+
+db.students.deleteOne({usn: 'CS102'});
+
+db.students.update({<key>: '<value'}, {$set: {<key>: '<value>'}});
